@@ -1,1 +1,2 @@
+[Adblock Plus 3.6]
 ###hs-eu-cookie-confirmation
